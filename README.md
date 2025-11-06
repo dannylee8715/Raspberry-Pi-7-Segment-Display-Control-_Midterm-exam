@@ -6,6 +6,12 @@
 
 ---
 
+<details>
+<summary><h2>點我➡️顯示本網頁QR Code</h2></summary>
+    <img src="Pi-7SDC_QR.png" alt="QR Code" width="200"/>
+</details>
+
+---
 # ⚙️ 功能特色
 ### 1. 按鈕控制運作
 - 使用兩顆按鈕控制七段顯示器：「Start」與「Pause」。
